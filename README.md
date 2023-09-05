@@ -49,9 +49,3 @@ I'm studying **web development**. <br>
  <p>🥰 Follow Me 🥰</p>
  <a href="https://wogjs0911.github.io/"><img src="https://img.shields.io/badge/GitBlog-000000?style=flat-square&logo=github&&logoColor=white"/></a>
 </div>
-  
-<br><br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wogjs0911">
-</div>
