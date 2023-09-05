@@ -53,5 +53,5 @@ I'm studying **web development**. <br>
 <br><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wogjs0911&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=wogjs0911">
 </div>
