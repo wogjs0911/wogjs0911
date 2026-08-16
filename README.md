@@ -30,6 +30,14 @@ Java/Spring 기반 ERP 백엔드에서 출발해, Python/FastAPI와 Pydantic AI 
 <br>
 
 <div align="center">
+ <p>🎨 Frontend 🎨</p>
+ <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+</div>
+
+<br>
+
+<div align="center">
  <p>🗄️ Databases 🗄️</p>
  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white">
